@@ -1,0 +1,31 @@
+body{
+    background-color: black;/*warna baground utama*/
+}
+h2{
+    text-align: center; /*ketengahkan text*/
+    background-color: #840013; /*warna baground text*/ 
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;/*jenis font*/
+    margin-top: 50px; /*tinggi border*/
+    margin-left: 600px; /*panjang ke kiri*/
+    margin-right: 600px; /*panjang ke kanan*/
+    border-radius: 10px; /*menumpulkan sudut border*/
+    padding: 20px; /*panjang border*/
+}
+div{
+    color: black;/*warna text*/
+    background-color: white;/*warna baground text*/
+    margin-top: -20px; 
+    border-radius: 30px;
+    padding: 20px;
+    margin-left: 200px;
+    margin-right: 200px;
+    margin-bottom: 100px;
+}
+img{
+    border: 20px solid #840013;
+    border-radius: 30px;
+}
+p{
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+}
